@@ -38,7 +38,6 @@ class MyApp extends StatelessWidget {
 class CounterPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // ignore: close_sinks
     final CounterBloc counterBloc = BlocProvider.of<CounterBloc>(context);
 
     return Scaffold(
