@@ -1,3 +1,5 @@
+[![Codemagic build status](https://api.codemagic.io/apps/5f731f039d53d20ccf9bd7f1/5f731f039d53d20ccf9bd7f0/status_badge.svg)](https://codemagic.io/apps/5f731f039d53d20ccf9bd7f1/5f731f039d53d20ccf9bd7f0/latest_build)
+
 # flutter-counter
 
 A new Flutter project.
